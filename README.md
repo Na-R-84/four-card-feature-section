@@ -12,6 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot.jpg)
 
 ### Link
+ https://na-r-84.github.io/four-card-feature-section/
